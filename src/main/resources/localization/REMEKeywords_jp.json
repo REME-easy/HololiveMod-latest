@@ -1,0 +1,168 @@
+[
+  {
+    "NAMES": ["Vtuver","vtuver"],
+    "DESCRIPTION": "Vtuversはあなたのターンの終わりに攻撃し、あなたのためにダメージを取る。"
+  },
+  {
+    "NAMES": ["猛攻"],
+    "DESCRIPTION": " ターン終了時、全員で攻撃する。"
+  },
+  {
+    "NAMES": ["追撃","pursuit"],
+    "DESCRIPTION": "Vtuverが攻撃するとき、効果を発動する。"
+  },
+  {
+    "NAMES": ["終了","endlive"],
+    "DESCRIPTION": "Vtuverが退場する時、効果を発動する。"
+  },
+  {
+    "NAMES": ["開始","startlive"],
+    "DESCRIPTION": "手札から出る時、効果を発動する。"
+  },
+  {
+    "NAMES": ["反撃","hurt"],
+    "DESCRIPTION": "攻撃するとき、効果を発動する。"
+  },
+  {
+    "NAMES": ["選択","choose"],
+    "DESCRIPTION": "いくつかのカードから選択し、効果を発動する。"
+  },
+  {
+    "NAMES": ["魔術","magic"],
+    "DESCRIPTION": "効果を選択します。シオンを持つと効果が高まる。アキロゼに影響されない。"
+  },
+  {
+    "NAMES": ["プログラム","program"],
+    "DESCRIPTION": "このカードを引いた時廃棄される。山札が空でない場合1枚カードを引く。"
+  },
+  {
+    "NAMES": ["挑発","taunt"],
+    "DESCRIPTION": "位置に関わらず最初にダメージを受ける。"
+  },
+  {
+    "NAMES": ["炎上","flare"],
+    "DESCRIPTION": "Vtuverが退場する時、1ダメージを受ける。"
+  },
+  {
+    "NAMES": ["狩り対象","hunted"],
+    "DESCRIPTION": "ターン終了時に、あなたが持っている各デバフをに対して5ダメージを受ける。"
+  },
+  {
+    "NAMES": ["てぇてぇ","combination"],
+    "DESCRIPTION": "デッキにある特定の組み合わせ。"
+  },
+  {
+    "NAMES": ["歌唱","singing"],
+    "DESCRIPTION": "召喚するたびに+ 1 /+ 1を与える。"
+  },
+  {
+    "NAMES": ["耐久配信","durablelive"],
+    "DESCRIPTION": "あなたのターンの終わりに、すべてのVtuverに+ 1体力を与える。"
+  },
+  {
+    "NAMES": ["てぇてぇ:卍組"],
+    "DESCRIPTION": " #b湊あくあ + #b紫咲シオン + #b百鬼あやめ "
+  },
+  {
+    "NAMES": ["てぇてぇ:夏色吹雪"],
+    "DESCRIPTION": " #b夏色まつり + #b白上フブキ "
+  },
+  {
+    "NAMES": ["てぇてぇ:ぺこみこ"],
+    "DESCRIPTION": " #b兎田ぺこら + #bさくらみこ "
+  },
+  {
+    "NAMES": ["てぇてぇ:ゲーマーズ"],
+    "DESCRIPTION": " #b白上フブキ + #b大神ミオ + #b戌神ころね + #b猫又おかゆ "
+  },
+  {
+    "NAMES": ["てぇてぇ:ラッキートリオ"],
+    "DESCRIPTION": " #b夜霧 + #bCivia + #b黒桃影 "
+  },
+  {
+    "NAMES": ["てぇてぇ:金髪組"],
+    "DESCRIPTION": " #b赤井はあと + #bアキロゼ + #b癒月ちょこ + #b夜空メル + #b角巻わため + #b不知火フレア "
+  },
+  {
+    "NAMES": ["てぇてぇ:FAMS"],
+    "DESCRIPTION": " #b白上フブキ + #b大神ミオ + #b百鬼あやめ + #b大空スバル "
+  },
+  {
+    "NAMES": ["てぇてぇ:フブミオ"],
+    "DESCRIPTION": " #b白上フブキ + #b大神ミオ "
+  },
+  {
+    "NAMES": ["てぇてぇ:おかころ"],
+    "DESCRIPTION": " #b戌神ころね + #b猫又おかゆ "
+  },
+  {
+    "NAMES": ["てぇてぇ:あくあマリン"],
+    "DESCRIPTION": " #b湊あくあ + #b宝鐘マリン "
+  },
+  {
+    "NAMES": ["てぇてぇ:そらえー"],
+    "DESCRIPTION": " #bときのそら + #b友人A "
+  },
+  {
+    "NAMES": ["てぇてぇ:ノエフレ"],
+    "DESCRIPTION": " #b白銀ノエル + #b不知火フレア "
+  },
+  {
+    "NAMES": ["てぇてぇ:シオり"],
+    "DESCRIPTION": " #b夏色まつり + #b紫咲シオン "
+  },
+  {
+    "NAMES": ["てぇてぇ:零期生"],
+    "DESCRIPTION": " #bときのそら + #b友人A + #bロボ子さん + #bさくらみこ + #b星街すいせい "
+  },
+  {
+    "NAMES": ["てぇてぇ:一期生"],
+    "DESCRIPTION": " #b夜空メル + #b赤井はあと + #bアキロゼ + #b白上フブキ + #b夏色まつり "
+  },
+  {
+    "NAMES": ["てぇてぇ:二期生"],
+    "DESCRIPTION": " #b大空スバル + #b百鬼あやめ + #b湊あくあ + #b紫咲シオン + #b癒月ちょこ "
+  },
+  {
+    "NAMES": ["てぇてぇ:三期生"],
+    "DESCRIPTION": " #b兎田ぺこら + #b潤羽るしあ + #b不知火フレア + #b宝鐘マリン + #b白銀ノエル "
+  },
+  {
+    "NAMES": ["てぇてぇ:四期生"],
+    "DESCRIPTION": " #b角巻わため + #b常闇トワ + #b桐生ココ + #b天音かなた + #b姫森ルーナ "
+  },
+  {
+    "NAMES": ["てぇてぇ:MUSIC"],
+    "DESCRIPTION": " #bAZKi + #b星街すいせい "
+  },
+  {
+    "NAMES": ["てぇてぇ:全員"],
+    "DESCRIPTION": " #yEveryone!no #yeffect #ycurrently "
+  },
+  {
+    "NAMES": ["てぇてぇ:ラムポーク"],
+    "DESCRIPTION": " #b角巻わため + #b赤井はあと "
+  },
+  {
+    "NAMES": ["てぇてぇ:フェスティバルーナ"],
+    "DESCRIPTION": " #b夏色まつり + #b姫森ルーナ "
+  },
+  {
+    "NAMES": ["てぇてぇ:収益化NG組"],
+    "DESCRIPTION": " #b桐生ココ + #b天音かなた "
+  },
+  {
+    "NAMES": ["てぇてぇ:ホロ中国2期"],
+    "DESCRIPTION": " #bアティア + #bドリス + #bロサリン "
+  },
+  {
+    "NAMES": ["てぇてぇ:ホロライブID"],
+    "DESCRIPTION": " #bリス + #bムーナ + #bイオフィ "
+  },
+  {
+    "NAMES": ["てぇてぇ:五期生"],
+    "DESCRIPTION": " #b雪花ラミィ + #b桃鈴ねね + #b獅白ぼたん + #b魔乃アロエ + #b尾丸ポルカ "
+  }
+
+
+]

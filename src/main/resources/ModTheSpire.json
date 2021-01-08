@@ -1,0 +1,11 @@
+{
+  "modid": "HololiveMod",
+  "name": "HololiveMod",
+  "author_list": ["REME"],
+  "description": "REME`s mod.If you have a nice time,I will be happy.:)\n The pictures are from fan art, vtuber homepage and live screenshots. They will be replaced if there is any inconvenience. \n 增加了一个新的人物：Hololive。可以召唤成员进行攻击，并且她们会代替你受伤。卡牌之间有意想不到的配合效果。\n 图片素材来源于同人图、vtuber主页、直播录像，如有不便会尽快更换。\n 杀戮尖塔mod交流群：723677239",
+  "version": "0.5.2",
+  "sts_version": "07-30-2020",
+  "mts_version": "3.16.0",
+  "credits": "测试:PureCopper",
+  "dependencies": ["basemod"]
+}

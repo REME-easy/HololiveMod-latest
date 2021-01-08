@@ -1,0 +1,167 @@
+[
+  {
+    "NAMES": ["队友"],
+    "DESCRIPTION": "队友会在你回合结束时攻击，并且你受伤时队友代替你受伤。"
+  },
+  {
+    "NAMES": ["攻击"],
+    "DESCRIPTION": "你的回合结束时，所有队友会发动攻击。"
+  },
+  {
+    "NAMES": ["追击"],
+    "DESCRIPTION": "在该队友攻击时会产生一些效果。"
+  },
+  {
+    "NAMES": ["结尾"],
+    "DESCRIPTION": "在该队友阵亡时会产生一些效果。"
+  },
+  {
+    "NAMES": ["开幕"],
+    "DESCRIPTION": "在该队友从手牌入场时会产生一些效果。"
+  },
+  {
+    "NAMES": ["受伤"],
+    "DESCRIPTION": "每当该队友受到攻击，产生一些效果。"
+  },
+  {
+    "NAMES": ["选择"],
+    "DESCRIPTION": "从几张卡牌中选择一张，产生一些效果。默认为3张。"
+  },
+  {
+    "NAMES": ["魔法"],
+    "DESCRIPTION": "选择并产生效果，诗音在场效果增强。不受aki影响。"
+  },
+  {
+    "NAMES": ["程序"],
+    "DESCRIPTION": "抽到时消耗，如果抽牌堆不为空则抽一张牌。"
+  },
+  {
+    "NAMES": ["嘲讽"],
+    "DESCRIPTION": "具有嘲讽的队友成为优先攻击的对象之一。"
+  },
+  {
+    "NAMES": ["燃烧"],
+    "DESCRIPTION": "每阵亡一个队友，每有1层受到1点伤害。"
+  },
+  {
+    "NAMES": ["被追猎"],
+    "DESCRIPTION": "回合结束时受到等同于负面效果种数5倍的伤害。"
+  },
+  {
+    "NAMES": ["组合"],
+    "DESCRIPTION": "当你卡组拥有特定队友时，产生特殊效果。"
+  },
+  {
+    "NAMES": ["索兰歌声"],
+    "DESCRIPTION": "你每召唤一个队友，每有一层使其+1/+1。"
+  },
+  {
+    "NAMES": ["耐久直播"],
+    "DESCRIPTION": "在你回合结束时，每有一层所有队友+1生命值。"
+  },
+  {
+    "NAMES": ["组合：卍组"],
+    "DESCRIPTION": " #b湊阿库娅 + #b紫咲诗音 + #b百鬼绫目 "
+  },
+  {
+    "NAMES": ["组合：夏色吹雪"],
+    "DESCRIPTION": " #b夏色祭 + #b白上吹雪 "
+  },
+  {
+    "NAMES": ["组合：兔龙"],
+    "DESCRIPTION": " #b兔田佩克拉 + #b樱巫女 "
+  },
+  {
+    "NAMES": ["组合：Gamers"],
+    "DESCRIPTION": " #b白上吹雪 + #b大神澪 + #b猫又小粥 + #b戌神沁音 "
+  },
+  {
+    "NAMES": ["组合：吉祥三宝"],
+    "DESCRIPTION": " #b夜雾 + #b希薇娅 + #b黑桃影 "
+  },
+  {
+    "NAMES": ["组合：金发组"],
+    "DESCRIPTION": " #b赤井心 + #b亚奇罗森 + #b愈月巧可 + #b夜空梅露 + #b不知火芙蕾雅 + #b角卷绵芽 "
+  },
+  {
+    "NAMES": ["组合：FAMS"],
+    "DESCRIPTION": " #b白上吹雪 + #b大神澪 + #b大空昴 + #b百鬼绫目 "
+  },
+  {
+    "NAMES": ["组合：fubmio"],
+    "DESCRIPTION": " #b白上吹雪 + #b大神澪 "
+  },
+  {
+    "NAMES": ["组合：猫狗"],
+    "DESCRIPTION": " #b猫又小粥 + #b戌神沁音 "
+  },
+  {
+    "NAMES": ["组合：海蓝宝石"],
+    "DESCRIPTION": " #b湊阿库娅 + #b宝钟玛琳 "
+  },
+  {
+    "NAMES": ["组合：空A"],
+    "DESCRIPTION": " #b时乃空 + #b友人A "
+  },
+  {
+    "NAMES": ["组合：银火"],
+    "DESCRIPTION": " #b白银诺艾尔 + #b不知火芙蕾雅 "
+  },
+  {
+    "NAMES": ["组合：夏紫"],
+    "DESCRIPTION": " #b夏色祭 + #b紫咲诗音 "
+  },
+  {
+    "NAMES": ["组合：零期生"],
+    "DESCRIPTION": " #b时乃空 + #b友人A + #b萝卜子 + #b樱巫女 + #b星街彗星 "
+  },
+  {
+    "NAMES": ["组合：一期生"],
+    "DESCRIPTION": " #b夜空梅露 + #b赤井心 + #b亚奇罗森 + #b白上吹雪 + #b夏色祭 "
+  },
+  {
+    "NAMES": ["组合：二期生"],
+    "DESCRIPTION": " #b大空昴 + #b百鬼绫目 + #b湊阿库娅 + #b紫咲诗音 + #b愈月巧可 "
+  },
+  {
+    "NAMES": ["组合：三期生"],
+    "DESCRIPTION": " #b兔田佩克拉 + #b润羽露西娅 + #b不知火芙蕾雅 + #b宝钟玛琳 + #b白银诺艾尔 "
+  },
+  {
+    "NAMES": ["组合：四期生"],
+    "DESCRIPTION": " #b角卷绵芽 + #b常暗永远 + #b桐生可可 + #b天音彼方 + #b姬森璐娜 "
+  },
+  {
+    "NAMES": ["组合：MUSIC"],
+    "DESCRIPTION": " #bAZKi + #b星街彗星 "
+  },
+  {
+    "NAMES": ["组合：全员"],
+    "DESCRIPTION": " #y需要每一个！咕咕咕了 "
+  },
+  {
+    "NAMES": ["组合：心羊"],
+    "DESCRIPTION": " #b赤井心 + #b角卷绵芽 "
+  },
+  {
+    "NAMES": ["组合：夏娜"],
+    "DESCRIPTION": " #b夏色祭 + #b姬森璐娜 "
+  },
+  {
+    "NAMES": ["组合：天龙"],
+    "DESCRIPTION": " #b天音彼方 + #b桐生可可 "
+  },
+  {
+    "NAMES": ["组合：CN二期生"],
+    "DESCRIPTION": " #b阿媂娅 + #b朵莉丝 + #b罗莎琳 "
+  },
+  {
+    "NAMES": ["组合：Hololive-ID"],
+    "DESCRIPTION": " #bAyundaRisu + #bMoonaHoshinova + #bAiraniIofifteen "
+},
+  {
+    "NAMES": ["组合：五期生"],
+    "DESCRIPTION": " #b雪花菈米 + #b桃铃音音 + #b狮白牡丹 + #b魔乃阿萝耶 + #b尾丸波尔卡 "
+  }
+
+]

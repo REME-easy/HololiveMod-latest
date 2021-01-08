@@ -1,0 +1,60 @@
+package hololivemod.cards.summonCard;
+
+import basemod.helpers.TooltipInfo;
+import com.megacrit.cardcrawl.cards.AbstractCard;
+import com.megacrit.cardcrawl.characters.AbstractPlayer;
+import com.megacrit.cardcrawl.core.CardCrawlGame;
+import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
+import com.megacrit.cardcrawl.localization.CardStrings;
+import com.megacrit.cardcrawl.monsters.AbstractMonster;
+import hololivemod.actions.SpawnMateAction;
+import hololivemod.helper.CardHelper;
+import hololivemod.minions.TokoyamiTowa;
+import hololivemod.patches.AbstractCardEnum;
+
+public class CallTokoyamiTowa extends AbstractSummonCard {
+    private static final String ID = "Hololive_CallTokoyamiTowa";
+    private static final CardStrings cardStrings = CardCrawlGame.languagePack.getCardStrings(ID);
+    private static final String NAME = cardStrings.NAME;
+    private static final String DESCRIPTION = cardStrings.DESCRIPTION;
+    private static final String UPGRADE_DESCRIPTION = cardStrings.UPGRADE_DESCRIPTION;
+    private static final String IMG_PATH = "img/card/summoncards/CallTokoyamiTowa.png";
+    private static final int COST = 2;
+    public CallTokoyamiTowa(){
+        super(ID, NAME, IMG_PATH, COST, DESCRIPTION,
+                CardType.POWER, AbstractCardEnum.Hololive_BLUE,
+                CardRarity.UNCOMMON, CardTarget.NONE);
+        this.cardATK = 10;
+        this.cardHP = 10;
+        if(CardHelper.isBalance){
+            this.cardATK = 6;
+            this.cardHP = 6;
+        }
+
+        tips.add(new TooltipInfo(CardHelper.CombinationsName.get(35), CardHelper.CombinationsDescription.get(35)));
+        tips.add(new TooltipInfo(CardHelper.CombinationsName.get(33), CardHelper.CombinationsDescription.get(33)));
+    }
+
+    public void use(AbstractPlayer p, AbstractMonster m) {
+        AbstractDungeon.actionManager.addToBottom(new SpawnMateAction(new TokoyamiTowa(this.upgraded),this.cardATK,this.cardHP));
+    }
+
+    public AbstractCard makeCopy(){
+        return new CallTokoyamiTowa();
+    }
+
+    public void upgrade(){
+        if(!this.upgraded) {
+            this.upgradeName();
+            this.cardHP = this.cardHP + 3;
+            this.cardATK = this.cardATK + 3;
+            if(CardHelper.isBalance){
+                this.cardHP = this.cardHP - 1;
+                this.cardATK = this.cardATK - 1;
+            }
+            this.rawDescription = UPGRADE_DESCRIPTION;
+
+            this.initializeDescription();
+        }
+    }
+}

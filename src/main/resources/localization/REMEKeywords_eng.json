@@ -1,0 +1,167 @@
+[
+  {
+    "NAMES": ["Vtuber","vtuber"],
+    "DESCRIPTION": "Vtubers will attack at the end of your turn,and take damage for you."
+  },
+  {
+    "NAMES": ["攻击"],
+    "DESCRIPTION": "你的回合结束时，所有队友会发动攻击。"
+  },
+  {
+    "NAMES": ["Pursuit","pursuit"],
+    "DESCRIPTION": "When vtuber attacks,trigger something."
+  },
+  {
+    "NAMES": ["EndLive","endlive"],
+    "DESCRIPTION": "When vtuber died,trigger something."
+  },
+  {
+    "NAMES": ["StartLive","startlive"],
+    "DESCRIPTION": "When played from hand,trigger something."
+  },
+  {
+    "NAMES": ["Hurt","hurt"],
+    "DESCRIPTION": "When attacked,trigger something."
+  },
+  {
+    "NAMES": ["Choose","choose"],
+    "DESCRIPTION": "Choose from some cards and trigger something."
+  },
+  {
+    "NAMES": ["Magic","magic"],
+    "DESCRIPTION": "Choose and enhanced when you control Shion.Cant be affected by #yAki. "
+  },
+  {
+    "NAMES": ["Program","program"],
+    "DESCRIPTION": "Exhaust when drawn,and draw 1 card if draw pile is not empty."
+  },
+  {
+    "NAMES": ["Taunt","taunt"],
+    "DESCRIPTION": "Vtubers with taunt receive damage first."
+  },
+  {
+    "NAMES": ["Flare","flare"],
+    "DESCRIPTION": "Whenever a vtuber died,receive 1 damage."
+  },
+  {
+    "NAMES": ["Hunted","hunted"],
+    "DESCRIPTION": "At the end of turn,receive 5 damage for each debuff you have."
+  },
+  {
+    "NAMES": ["Combination","combination"],
+    "DESCRIPTION": "When you have specific cards in your master deck,trigger something."
+  },
+  {
+    "NAMES": ["Singing","singing"],
+    "DESCRIPTION": "Whenever you summon,give it +1/+1."
+  },
+  {
+    "NAMES": ["DurableLive","durablelive"],
+    "DESCRIPTION": "At the end of your turn,give +1 health to all vtubers."
+  },
+  {
+    "NAMES": ["Combination:Manji"],
+    "DESCRIPTION": " #bMinatoAqua + #bMurasakiShion + #bNakiriAyame "
+  },
+  {
+    "NAMES": ["Combination:NatsuiroFubuki"],
+    "DESCRIPTION": " #bNatsuiroMatsuri + #bShirakamiFubuki "
+  },
+  {
+    "NAMES": ["Combination:PekoMiko"],
+    "DESCRIPTION": " #bUsadaPekora + #bSakuraMiko "
+  },
+  {
+    "NAMES": ["Combination:Gamers"],
+    "DESCRIPTION": " #bShirakamiFubuki + #bOkamiMio + #bInugamiKorone + #bNekomataOkayu "
+  },
+  {
+    "NAMES": ["Combination:HappyFamily"],
+    "DESCRIPTION": " #bYogiri + #bCivia + #bSpadeEcho "
+  },
+  {
+    "NAMES": ["Combination:BlondHair"],
+    "DESCRIPTION": " #bAkaiHaato + #bAkiRosenthal + #bYuzukiChoco + #bYzoraMel + #bTsunomakiWatame + #bShiranuiFlare "
+  },
+  {
+    "NAMES": ["Combination:FAMS"],
+    "DESCRIPTION": " #bShirakamiFubuki + #bOkamiMio + #bNakiriAyame + #bOzoraSubaru "
+  },
+  {
+    "NAMES": ["Combination:Fubmio"],
+    "DESCRIPTION": " #bShirakamiFubuki + #bOkamiMio "
+  },
+  {
+    "NAMES": ["Combination:Cat&Dog"],
+    "DESCRIPTION": " #bInugamiKorone + #bNekomataOkayu "
+  },
+  {
+    "NAMES": ["Combination:AquaMarine"],
+    "DESCRIPTION": " #bMinatoAqua + #bHoushouMarine "
+  },
+  {
+    "NAMES": ["Combination:SoraA"],
+    "DESCRIPTION": " #bTokinoSora + #bFriendA "
+  },
+  {
+    "NAMES": ["Combination:NoelFlare"],
+    "DESCRIPTION": " #bShiroganeNoel + #bShiranuiFlare "
+  },
+  {
+    "NAMES": ["Combination:MatsuriShion"],
+    "DESCRIPTION": " #bNatsuiroMatsuri + #bMurasakiShion "
+  },
+  {
+    "NAMES": ["Combination:Zero"],
+    "DESCRIPTION": " #bTokinoSora + #bFriendA + #bRoboco + #bSakuraMiko + #bHoshimachiSuisei "
+  },
+  {
+    "NAMES": ["Combination:One"],
+    "DESCRIPTION": " #bYozoraMel + #bAkaiHaato + #bAkiRosenthal + #bShirakamiFubuki + #bNatsuiroMatsuri "
+  },
+  {
+    "NAMES": ["Combination:Two"],
+    "DESCRIPTION": " #bOzoraSubaru + #bNakiriAyame + #bMinatoAqua + #bMurasakiShion + #bYuzukiChoco "
+  },
+  {
+    "NAMES": ["Combination:Three"],
+    "DESCRIPTION": " #bUsadaPekora + #bUruhaRushia + #bShiranuiFlare + #bHoushouMarine + #bShirogameNoel "
+  },
+  {
+    "NAMES": ["Combination:Four"],
+    "DESCRIPTION": " #bTsunomakiWatame + #bTokoyamiTowa + #bKiryuuCoco + #bAmaneKanata + #bHimemoriLuna "
+  },
+  {
+    "NAMES": ["Combination:MUSIC"],
+    "DESCRIPTION": " #bAZKi + #bHoshimachiSuisei "
+  },
+  {
+    "NAMES": ["ALL MEMBER"],
+    "DESCRIPTION": " #yEveryone!no #yeffect #ycurrently "
+  },
+  {
+    "NAMES": ["Combination:Watame&Haato"],
+    "DESCRIPTION": " #bTsunomakiWatame + #bAkaiHaato "
+  },
+  {
+    "NAMES": ["Combination:Matsuri&Luna"],
+    "DESCRIPTION": " #bNatsuiroMatsuri + #bHimemoriLuna "
+  },
+  {
+    "NAMES": ["Combination:Coco&Kanata"],
+    "DESCRIPTION": " #bKiryuuCoco + #bAmaneKanata "
+  },
+  {
+    "NAMES": ["Combination:CN Two"],
+    "DESCRIPTION": " #bArtia + #bDoris + #bRosalyn "
+  },
+  {
+    "NAMES": ["Combination:Hololive-ID"],
+    "DESCRIPTION": " #bAyundaRisu + #bMoonaHoshinova + #bAiraniIofifteen "
+  },
+  {
+    "NAMES": ["Combination:Holofive"],
+    "DESCRIPTION": " #bYukihanaLamy + #bMomosuzuNene + #bShishiroBotan + #bManoAloe + #bOmaruPolka "
+  }
+
+]
